@@ -19,7 +19,7 @@
 <tr>
 <td>2</td>
 <td>22 февраля 2025</td>
-<td>Операторы ввода/вывода (print, display, input), списки, циклы</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_1_Intro.ipynb">Операторы ввода/вывода (print, display, input), списки</a>, <a href="https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_2_if%2C_while%2C_for.ipynb">циклы</a></td>
 <tr>
 <td>3</td>
 <td>24 февраля 2025</td>
