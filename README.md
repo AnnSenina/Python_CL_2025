@@ -23,7 +23,7 @@
 <tr>
 <td>3</td>
 <td>24 февраля 2025</td>
-<td>Кортежи, множества, словари</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_3_tuple%2C_set%2C_dict.ipynb">Кортежи, множества, словари</a></td>
 <tr>
 <td>4</td>
 <td>1 марта 2025</td>
