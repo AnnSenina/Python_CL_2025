@@ -31,7 +31,7 @@
 <tr>
 <td>5</td>
 <td>15 марта 2025</td>
-<td><a href="https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами, модуль os</a></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_5_os%2C_files.ipynb">Работа с файлами, модуль os</a></td>
 <tr>
 <td>6</td>
 <td>17 марта 2025</td>
