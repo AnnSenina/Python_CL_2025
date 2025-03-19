@@ -39,7 +39,7 @@
 <tr>
 <td>7</td>
 <td>19 марта 2025</td>
-<td>Частотные списки и n-граммы, Unicode</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_7_NLTK,_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8,_n_%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.ipynb'>Частотные списки и n-граммы</a>, <a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_Unicode_%D0%B2_Python.ipynb'>Unicode</a></td>
 <tr>
 <td>8</td>
 <td>24 марта 2025</td>
