@@ -47,7 +47,7 @@
 <tr>
 <td>9</td>
 <td>26 марта 2025</td>
-<td>pymorphy, mystem и др</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_9_pymorphy,_mystem.ipynb'>pymorphy, mystem и др</a></td>
 <tr>
 <td>10</td>
 <td>5 апреля 2025</td>
