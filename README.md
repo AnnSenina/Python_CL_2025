@@ -51,7 +51,7 @@
 <tr>
 <td>10</td>
 <td>5 апреля 2025</td>
-<td>Анализ данных и визуализация</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_11_Viz.ipynb'>Анализ данных и визуализация</a></td>
 <tr>
 <td>11</td>
 <td>9 апреля 2025</td>
