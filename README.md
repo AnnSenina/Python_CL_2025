@@ -63,7 +63,7 @@
 <tr>
 <td>13</td>
 <td>21 апреля 2025</td>
-<td>Пользовательские интерфейсы: боты, tkinter</td>
+<td>Пользовательские интерфейсы: <a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_14_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D0%B1%D0%BE%D1%82%D1%8B_%D0%B2_%D1%82%D0%B3_2024.ipynb'>боты</a>, <a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/Python_14_tkinter.ipynb'>tkinter</a></td>
 <tr>
 <td>14</td>
 <td>дата появится позднее</td>
