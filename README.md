@@ -67,7 +67,7 @@
 <tr>
 <td>14</td>
 <td>дата появится позднее</td>
-<td>numpy, pandas к машинному обучению</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/1_NumPy.ipynb'>numpy</a>, <a href='https://github.com/AnnSenina/Python_CL_2025/blob/main/notebooks/2_pandas.ipynb'>pandas к машинному обучению</a></td>
 <tr>
 <td>15-...</td>
 <td>май 2025 (слоты)</td>
